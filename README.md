@@ -10,7 +10,7 @@ html,css,js + php,sql语言
 
 ## 使用方法
 
-将文件解压并存储到文件夹后，运行集成环境,访问http://localhost/createdatabase.php
+将文件解压并存储到\xampp\htdocs文件夹后(htdocs需要自己新建)，运行集成环境,访问http://localhost/createdatabase.php
 后，将创建存储管理员账户和地图信息的数据库，成功后即可在http://localhost/ 访问系统首页，
 相关功能均正常运行，非管理员只能使用信息添加功能，所以使用数据采集的更多“数据库功能”之前
 需要自行在accinf数据表内添加使用的账号密码。
